@@ -8,4 +8,7 @@ var hrr20 = {
   food : 'apple',
   place : 'home'
 }
+var hrr21 = {
+  name1: 'smith'
+}
 console.log(hrr20);
